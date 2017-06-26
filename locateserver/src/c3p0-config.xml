@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+	<!-- 这是默认配置信息 -->
+	<default-config> 
+	<!-- 连接四大参数配置 -->
+		<property name="jdbcUrl">jdbc:mysql://localhost:3306/locate_database?rewriteBatchedStatements=true</property>
+		<property name="driverClass">com.mysql.jdbc.Driver</property>
+		<property name="user">root</property>
+		<property name="password">root</property>
+		<!-- 池参数配置 -->
+		<!-- 每次的增量 -->
+		<property name="acquireIncrement">5</property>
+        <!-- 初始化连接数 -->
+		<property name="initialPoolSize">10</property>
+	    <!-- 最少连接数 -->
+		<property name="minPoolSize">1</property>  
+		<!-- 最大连接数 -->   
+		<property name="maxPoolSize">20</property>     
+	</default-config>
+	
+	<!-- 为sqlite提供的配置信息 -->
+	<named-config name="sqlite-config"> 
+		<property name="jdbcUrl">F:/Master/Master-Project/Project/Androd/Wifi_Android/Wifidatabase.db</property>
+		<property name="driverClass">org.sqlite.JDBC</property>
+		
+		<property name="acquireIncrement">3</property>
+		<property name="initialPoolSize">5</property>
+		<property name="minPoolSize">1</property>
+		<property name="maxPoolSize">10</property>
+	</named-config>
+
+</c3p0-config>
