@@ -3,7 +3,9 @@ aming to realizea high concurrent system which can update the fingerprint databa
 Sorry for the part of the algorithms can not be made public,but the advantage is that you can 
 easily add your own algorithms.The current system is not strong enough, but it will be updated 
 and improved later. If you find any problems, it's kind of you to feedback ~
--------------------------------ÎÒÊÇ·Ö¸îÏß----------------------------------------------
-Spring+Mysql´î½¨µÄÒ»¸ö¼òµ¥ÊÒÄÚ¶¨Î»server Demo,Ê¹ÓÃÖ¸ÎÆ¶¨Î»Ëã·¨£¬Ö¼ÔÚÊµÏÖ¿É×Ô¶¯¸üĞÂÖ¸ÎÆÊı¾İ¿âµÄ¸ß²¢·¢ÏµÍ³¡£±§Ç¸
-Ëã·¨²¿·ÖÉĞÇÒ²»ÄÜ¹«²¼£¬µ«ºÃ´¦ÊÇÄã¿ÉÒÔ·½±ãµÄ×Ô¶¯Ìí¼Ó×Ô¼ºµÄËã·¨½øÈ¥¡£Ä¿Ç°ÏµÍ³»¹²»¹»Ç¿´ó£¬´ı¼ÌĞø¸üĞÂÍêÉÆ¡£Èç¹û´ó¼Ò
-·¢ÏÖÈÎºÎÎÊÌâ£¬»¶Ó­·´À¡~
+
+-------------------------------æˆ‘æ˜¯åˆ†å‰²çº¿----------------------------------------------
+
+Spring+Mysqlæ­å»ºçš„ä¸€ä¸ªç®€å•å®¤å†…å®šä½server Demo,ä½¿ç”¨æŒ‡çº¹å®šä½ç®—æ³•ï¼Œæ—¨åœ¨å®ç°å¯è‡ªåŠ¨æ›´æ–°æŒ‡çº¹æ•°æ®åº“çš„é«˜å¹¶å‘ç³»ç»Ÿã€‚æŠ±æ­‰
+ç®—æ³•éƒ¨åˆ†å°šä¸”ä¸èƒ½å…¬å¸ƒï¼Œä½†å¥½å¤„æ˜¯ä½ å¯ä»¥æ–¹ä¾¿çš„è‡ªåŠ¨æ·»åŠ è‡ªå·±çš„ç®—æ³•è¿›å»ã€‚ç›®å‰ç³»ç»Ÿè¿˜ä¸å¤Ÿå¼ºå¤§ï¼Œå¾…ç»§ç»­æ›´æ–°å®Œå–„ã€‚å¦‚æœå¤§å®¶
+å‘ç°ä»»ä½•é—®é¢˜ï¼Œæ¬¢è¿åé¦ˆ~
